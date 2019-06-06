@@ -1,0 +1,67 @@
+.box1 {
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px;
+    box-sizing: border-box ;
+    height: 20vh;
+    margin: 1%
+    
+}
+
+.purple { 
+    width: 30px;
+    height: 80px;
+    margin: 20px 30px 5px 5px;
+    float:left;
+    background: rgb(65, 41, 65)
+}
+
+.green { 
+    width: 200px;
+    height: 100px;
+    margin: 2px 30px 150px 5px;
+    float:left;
+    background: green;
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+    border-radius: 50%;
+    display: inline-block;  
+}
+
+.box2 {
+    width: 100%;
+    border: 5px dotted black;
+    padding: 10px;
+    box-sizing: border-box ;
+    height: 30vh;
+    margin: 1%;
+}
+
+.yellow {
+    width: 95%;
+    height: 100px;
+    display: center;
+    background: rgb(245, 245, 196);
+    margin: 30px;
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+}
+
+.box3 {
+    width: 50%;
+    border: .1px solid lightgray;
+    padding: 10px;
+    box-sizing: border-box ;
+    height: 30vh;
+    margin: 40px 40px 20px 350px;
+     -moz-box-shadow:    1px 1px 2px 3px #ccc;
+    -webkit-box-shadow: 1px 1px 2px 3px #ccc;
+    box-shadow:         1px 1px 2px 3px #ccc;
+    text-align: center;
+    line-height: 200px
+}
